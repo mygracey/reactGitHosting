@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactGitHosting/static/css/main.71b5fac7.css",
+    "main.js": "/reactGitHosting/static/js/main.c7adef9c.js",
+    "static/js/453.64512fd7.chunk.js": "/reactGitHosting/static/js/453.64512fd7.chunk.js",
+    "index.html": "/reactGitHosting/index.html",
+    "main.71b5fac7.css.map": "/reactGitHosting/static/css/main.71b5fac7.css.map",
+    "main.c7adef9c.js.map": "/reactGitHosting/static/js/main.c7adef9c.js.map",
+    "453.64512fd7.chunk.js.map": "/reactGitHosting/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71b5fac7.css",
+    "static/js/main.c7adef9c.js"
+  ]
+}
